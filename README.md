@@ -1,4 +1,4 @@
-GitHub Repository Analysis
+GitHub Automated Analysis
 
 This script analyzes GitHub repositories and identifies the most technically complex one based on code complexity metrics. 
 It uses the Hugging Face GPT-2 language model to generate a justification for the selection.
